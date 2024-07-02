@@ -1,0 +1,87 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in React, JavaScript, HTML, CSS, Bootstrap, and Tailwind, focusing on creating responsive and visually appealing user interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in Node.js, Express, MongoDB, and RESTful APIs, with experience in server-side development, database management, and backend architecture."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Designs",
+      "description": "Experienced in creating intuitive and visually appealing designs with proficiency in Adobe XD, Figma, wireframing, and user-centered design principles."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficient in Webflow for designing and developing responsive websites, integrating dynamic content, and implementing custom interactions with a focus on visual aesthetics and user experience."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "My Portfolio Website",
+      "description": "I created a modern portfolio website using ReactJS and CSS. It showcases my projects, skills, and achievements with an intuitive design and seamless user experience, reflecting my passion for web development and attention to detail.",
+      "link": "View In Github",
+      "link2": "View In Web",
+      "repoLink": "https://github.com/shreyansh0005",
+      "webLink": "https://github.com/shreyansh0005"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique adipiscing elit. Suspenmdisse varius eim in eros elementum tristique adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github",
+      "link2": "View In Web",
+      "repoLink": "https://github.com/shreyansh0005",
+      "webLink": "https://github.com/shreyansh0005"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim inadipiscing elit. Suspenmdisse varius eim in eros elementum tristiqueadipiscing elit. Suspenmdisse varius eim in eros elementum tristique eros elementum tristique",
+      "link": "View In Github",
+      "link2": "View In Web",
+      "repoLink": "https://github.com/shreyansh0005",
+      "webLink": "https://github.com/shreyansh0005"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": " The user interface is intuitive, and unique features enhance engagement. Consider adding search functionality. Proud of your hard work!",
+      "author_name": "Reyanul Abdin",
+      "author_designation": "Atlassian"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Amazing work on your project!. Proud of your effort and creativity. Keep it up!",
+      "author_name": "Aditya Dev",
+      "author_designation": "Texas"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Amazing job on your project! Your effort and creativity truly shine. Keep up the great work and continue creating more fantastic projects!",
+      "author_name": "Shovic Dhar",
+      "author_designation": "Google"
+    }
+  ]
+}
